@@ -49,7 +49,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'vazofa2.urls'
+ROOT_URLCONF = 'vazifa2.urls'
 
 TEMPLATES = [
     {
@@ -66,7 +66,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'vazofa2.wsgi.application'
+WSGI_APPLICATION = 'vazifa2.wsgi.application'
 
 
 # Database
